@@ -1,5 +1,7 @@
 ### Hi. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px">
 
+Hey, I am a 17 year old student and in my free time I am busy with programming, Minecraft Bedrock and texturepacks in this version of Minecraft.
+
 [![Mail Badge](https://img.shields.io/badge/gmail-yockerfx%40gmail.com-blue)](mailto:yockerfx@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@yockerfx_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=http://twitter.com/yockerfx)](https://twitter.com/yockerfx)
 <a href="https://www.instagram.com/yockerfx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
