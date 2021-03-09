@@ -1,4 +1,4 @@
-### Hi. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px"> [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="24">](https://yockerfx.github.io/index.html) 
+### Hi. [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="24">](https://yockerfx.github.io/index.html) 
 
 Hey, I am a 17 year old student and in my free time I am busy with programming, Minecraft Bedrock and texturepacks in this version of Minecraft.
 
