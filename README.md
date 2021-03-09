@@ -1,4 +1,4 @@
-### Hi. [<img src="https://image.pngaaa.com/913/94913-middle.png" alt="github logo" width="24">](https://yockerfx.github.io/index.html) 
+### Hi. [<img src="https://yockerfx.github.io/img/pic.png" alt="github logo" width="24">](https://yockerfx.github.io/index.html) 
 
 Hey, I am a 17 year old student and in my free time I am busy with programming, Minecraft Bedrock and texturepacks in this version of Minecraft.
 
