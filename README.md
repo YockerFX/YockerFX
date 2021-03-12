@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/yockerfx/yockerfx)](https://yockerfx.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/yockerfx)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/yockerfx)
-[![CodePen Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/user/YockerFX)
+[![CodePen Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=orange)](https://www.reddit.com/user/YockerFX)
 
 Hey there 👋
 
