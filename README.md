@@ -30,6 +30,10 @@ Want to know more about me? [Check out my website.](https://yockerfx.github.io/#
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yockerfx&repo=yockerfx.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/YockerFX/Custom-Discord-RPC">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yockerfx&repo=Custom-Discord-RPC&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
 <br>
 <br>
