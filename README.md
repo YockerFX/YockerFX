@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/yockerfx)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/yockerfx)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=orange)](https://www.reddit.com/user/YockerFX)
-[![Discord Badge](https://img.shields.io/badge/Discord-Server-informational?style=flat&logo=discord&logoColor=white&color=blue)](https://discord.gg/UHJAXKc3qN)
+[![Discord Badge](https://img.shields.io/badge/Discord-Server-informational?style=flat&logo=discord&logoColor=white&color=blue)](https://discord.gg/mcpepacks)
 
 Hey there 👋
 
