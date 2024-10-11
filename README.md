@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions, learning new technologies, and collaborating with the open-source community. 🚀
 
+[![YockerFX's GitHub | Stats](https://stats.quira.sh/YockerFX/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=YockerFX)
 
 
 ## 🔧 Tech Stack
@@ -73,7 +74,5 @@ I appreciate every bit of support!
 ---
 
 Let's code something amazing together! 😎
-
-[![YockerFX's GitHub | Topics](https://stats.quira.sh/YockerFX/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=YockerFX)
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yockerfx&repo=yockerfx&countColorcountColor&countColor=%237B1E7B"/>
