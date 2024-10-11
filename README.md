@@ -74,4 +74,6 @@ I appreciate every bit of support!
 
 Let's code something amazing together! 😎
 
+[![YockerFX's GitHub | Topics](https://stats.quira.sh/YockerFX/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=YockerFX)
+
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yockerfx&repo=yockerfx&countColorcountColor&countColor=%237B1E7B"/>
