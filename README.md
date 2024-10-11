@@ -73,3 +73,5 @@ I appreciate every bit of support!
 ---
 
 Let's code something amazing together! 😎
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yockerfx&repo=yockerfx&countColorcountColor&countColor=%237B1E7B"/>
