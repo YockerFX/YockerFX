@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions, learning new technologies, and collaborating with the open-source community. 🚀
 
-[![YockerFX's GitHub | Stats](https://stats.quira.sh/YockerFX/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=YockerFX)
-
-
 ## 🔧 Tech Stack
 
 - **Languages**:  
