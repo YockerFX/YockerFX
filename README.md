@@ -29,16 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=vsc&logoColor=white)
 
 
-## 🚀 Current Projects
-
-- 🛠 **[University projects](https://github.com/YockerFX/GDP-Projekte)**  
-  Tasks/duties of the module Fundamentals of Programming at Humboldt University.
-
-- 🔍 **[Shipstream Tool](https://github.com/ToolHood/shipstreamData)**  
-  This extension makes it easier to copy and paste user data into Shipstream forms and offers additional functions such as hiding phone numbers. It is specially designed for Caseking and Pro Gamersware employees to optimize data entry.
-
-
-
 ## 🌱 What I'm Learning
 
 - 📚 Deepening my knowledge in **Web Development** for the creation of further browser extensions.
