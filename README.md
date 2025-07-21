@@ -29,22 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=vsc&logoColor=white)
 
 
-## 🌱 What I'm Learning
-
-- 📚 Deepening my knowledge in **Web Development** for the creation of further browser extensions.
-- 🤖 Exploring **AI and Automation** with Javascript.
-- 💡 Working on **Cloud Architecture** using Docker.
-
-
-
-## 💡 Fun Facts
-
-- 🌍 I love collaborating on **open-source projects**, if you need suggestions or help just message me.
-- 💻 I'm constantly expanding my **coding knowledge** and learning new frameworks.
-- 🎮 In my free time, if there is any, I enjoy gaming.
-
-
-
 ## 🌐 How to Reach Me
 
 - 💼 **LinkedIn**: [YockerFX on LinkedIn](https://www.linkedin.com/in/christoph-thiel-50213128a)
@@ -52,13 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 💬 **Discord**: [@yocker.104](https://www.discordapp.com/users/461137123576119316)
 
 
-
-## 💖 Support My Work
-
-If you like my work or find my projects helpful, feel free to sponsor me or give my repositories a ⭐!  
-I appreciate every bit of support!
-
----
+--
 
 Let's code something amazing together! 😎
 
