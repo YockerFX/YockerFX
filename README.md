@@ -99,18 +99,6 @@ Currently contributing to **[Caseking GmbH](https://www.caseking.de/)** – one 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![YockerFX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YockerFX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YockerFX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 <div align="center">
 
 **Feel free to reach out or check out my work!**
