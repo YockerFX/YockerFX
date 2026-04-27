@@ -27,6 +27,13 @@ a custom discord rich presence with two-button support. drop-in setup, runs in t
 
 oss → [github](https://github.com/YockerFX/Custom-Discord-RPC)
 
+### 04 — [bongo penguin](https://github.com/YockerFX/bongo-penguin-cosmic)
+rust · cosmic · pop!_os
+
+a cosmic applet for pop!_os: tux drums along with every keystroke, backed by an aes-256-gcm encrypted counter. weird little tool, in the most literal sense.
+
+oss → [github](https://github.com/YockerFX/bongo-penguin-cosmic)
+
 ## contact
 
 discord — [yocker.104](https://discordapp.com/users/461137123576119316)
