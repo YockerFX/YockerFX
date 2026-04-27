@@ -1,21 +1,32 @@
-# YockerFX
+# yockerfx
 
-Developer building tools for the Minecraft & gaming community.
+building tools for the minecraft & gaming community.
 
-## Projects
+## i. the work
 
-### [Texturepack.BE](https://github.com/Texturepack-BE) · [texturepack.be](https://www.texturepack.be/)
-The platform for Minecraft Bedrock texturepacks — gallery of ported & original packs, a Discord bot for instant Java-to-Bedrock conversion, and an active community.
-- [Texturepack.BE-Website](https://github.com/Texturepack-BE/Texturepack.BE-Website) — official site for browsing and downloading packs
-- [Texturepack.BE-Bot](https://github.com/Texturepack-BE/Texturepack.BE-Bot) — Discord bot for automatic Java→Bedrock conversion
-- [Texturepack-BE](https://github.com/Texturepack-BE/Texturepack-BE) — core repository
+a few things that work.
 
-### [Bedrock X-Ray](https://github.com/YockerFX/bedrock-xray)
-X-Ray texturepack for Minecraft Bedrock/PE that uses blockshapes to reveal ores. Block visibility configurable via `blocks.json`.
+### 01 — [texturepack.be](https://github.com/Texturepack-BE)
+next.js · supabase · discord.js · tailwind
 
-### [Custom Discord RPC](https://github.com/YockerFX/Custom-Discord-RPC)
-Node.js custom Discord Rich Presence with two-button support. Drop-in setup, runs in the background.
+the platform for minecraft bedrock texturepacks. gallery of ported & original packs, a discord bot that converts java packs to bedrock automatically, and a community that actually uses it.
 
-## Contact
+live → [texturepack.be](https://www.texturepack.be/)
 
-Discord — [yocker.104](https://discordapp.com/users/461137123576119316)
+### 02 — [bedrock x-ray](https://github.com/YockerFX/bedrock-xray)
+hlsl · minecraft bedrock
+
+an x-ray texturepack that uses blockshapes to reveal ores. block visibility configurable via `blocks.json`. small, does one thing.
+
+oss → [github](https://github.com/YockerFX/bedrock-xray)
+
+### 03 — [custom discord rpc](https://github.com/YockerFX/Custom-Discord-RPC)
+node.js · discord rpc
+
+a custom discord rich presence with two-button support. drop-in setup, runs in the background. that's the whole pitch.
+
+oss → [github](https://github.com/YockerFX/Custom-Discord-RPC)
+
+## contact
+
+discord — [yocker.104](https://discordapp.com/users/461137123576119316)
