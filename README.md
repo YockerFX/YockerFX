@@ -1,19 +1,15 @@
 # yockerfx
 
-building tools for the minecraft & gaming community. 
+building tools for the minecraft & gaming community.
 
-https://cthiel.dev/
+→ [cthiel.dev](https://cthiel.dev/)
 
-## i. the work
+## texturepack.be
 
-a few things that work.
+the platform for minecraft bedrock texturepacks — a gallery of ported and original packs, plus a discord bot that turns java packs into bedrock automatically.
 
-### 01 — [texturepack.be](https://github.com/Texturepack-BE)
-the platform for minecraft bedrock texturepacks. gallery of ported & original packs, a discord bot that converts java packs to bedrock automatically, and a community that actually uses it.
+- **gallery** — browse and download ported & original bedrock packs
+- **converter bot** — drop a java pack in discord, get a working bedrock pack back
+- **community** — built for the people who actually use it
 
-live → [texturepack.be](https://www.texturepack.be/)
-
-### 02 - [bongo penguin](https://github.com/YockerFX/bongo-penguin-cosmic)
-a cosmic applet for pop!_os: tux drums along with every keystroke, backed by an aes-256-gcm encrypted counter. weird little tool, in the most literal sense.
-
-oss → [github](https://github.com/YockerFX/bongo-penguin-cosmic)
+live → [texturepack.be](https://www.texturepack.be/) · code → [Texturepack-BE](https://github.com/Texturepack-BE)
